@@ -1,0 +1,2 @@
+A feature branch allows changes to be developed independently.
+Completed changes can be submitted for review.

@@ -1,0 +1,4 @@
+This document represents a practice SCMP.
+Software components should be properly identified.
+Changes should be tracked throughout development.
+Configuration activities should be organized.

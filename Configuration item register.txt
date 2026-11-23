@@ -1,0 +1,3 @@
+Configuration items are project assets.
+Each item should have a unique identifier.
+Changes to items should be documented.
