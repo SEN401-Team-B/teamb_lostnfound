@@ -1,0 +1,11 @@
+{
+  "name": "teamb-lostnfound",
+  "version": "0.2.0",
+  "description": "Team B Lost & Found app (SEN401)",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test tests/"
+  },
+  "license": "MIT"
+}
