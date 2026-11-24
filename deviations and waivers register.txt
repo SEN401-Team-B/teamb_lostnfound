@@ -1,0 +1,5 @@
+This file represents a sample register.
+
+Deviations may occur during project activities.
+
+Waivers should be recorded for future reference.
