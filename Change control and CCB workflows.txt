@@ -1,0 +1,4 @@
+Change control helps organize project updates.
+Proposed changes should be properly recorded.
+The CCB provides a review and approval process.
+This file represents a basic workflow exercise.

@@ -1,0 +1,2 @@
+Users can submit details about missing items.
+Found items can be recorded for easy reference.
